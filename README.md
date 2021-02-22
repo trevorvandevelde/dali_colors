@@ -5,7 +5,15 @@ This project was created for the Dali Labs Developer Challenge. All member data 
 
 This is my first time using the D3.js library. 
 
-Work Cited
+![example image](/photoDali.png)
+
+
+
+
+
+
+
+# Work Cited
 How to use tooltips:
 https://www.d3-graph-gallery.com/graph/bubblemap_tooltip.html
 
