@@ -13,13 +13,13 @@ Step 1: Download or Clone this Repository
 Step 2: In Terminal, cd into the project
 
 Step 3: If you do not have npm & live-server run
-'''
+```
 npm install -g live-server
-'''
+```
 Step 4: Run live-server
-'''
+```
 live-server
-'''
+```
 
 
 
