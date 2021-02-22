@@ -1,10 +1,7 @@
 # dali_colors
-dali developer challenge
+## dali developer challenge
 
-This project was created for the Dali Labs Developer Challenge.
-
-
-All member data are represented by circular nodes. The color of the node corresponds to their favorite color, and the size of the node corresponds to their age by year. 
+This project was created for the Dali Labs Developer Challenge. All member data are represented by circular nodes. The color of the node corresponds to their favorite color, and the size of the node corresponds to their age by year. 
 
 This is my first time using the D3.js library. 
 
